@@ -1,4 +1,4 @@
-# Network Compliance & Regulatory Frameworks
+# wazuh Agent setup/ Network Compliance & Regulatory Frameworks
 
 ## 📌 Overview
 This project demonstrates how to implement and check network systems against major government and industry compliance standards such as ISO 27001, NIST, and SOC 2.
